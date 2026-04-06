@@ -49,4 +49,4 @@ The extension scans webpage text and replaces occurrences of the word **“filip
 
 If you'd like to support development:
 
-- Ko-fi: :contentReference[oaicite:2]{index=2} → https://ko-fi.com/yuzukikouta58722
+- Ko-fi: https://ko-fi.com/yuzukikouta58722
