@@ -21,8 +21,7 @@ A simple browser extension that automatically replaces the word **“Filipinx”
 👉 https://addons.mozilla.org/en-US/firefox/addon/filipinx-to-filipino-replacer/
 
 ### Chrome / Chromium-based Browsers
-1. Download the `.crx` file from the repository:  
-👉 *(Insert GitHub link to CRX file here)*
+1. Download the `.crx` file from the repository
 
 2. Enable Developer Mode:
    - Go to `chrome://extensions/`
