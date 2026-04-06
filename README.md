@@ -41,8 +41,8 @@ The extension scans webpage text and replaces occurrences of the word **“filip
 
 ## 📬 Contact & Social
 
-- X (Twitter): :contentReference[oaicite:0]{index=0} → https://x.com/yuz_mynerva0x13
-- Discord: :contentReference[oaicite:1]{index=1} → @mynervab
+- X (Twitter):→ https://x.com/yuz_mynerva0x13
+- Discord: @mynervab
 - Email: koutayuzuki565@gmail.com
 
 ## ☕ Support / Donations
